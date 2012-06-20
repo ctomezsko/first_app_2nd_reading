@@ -1,5 +1,9 @@
 == Welcome to Rails
 
+# Ruby on Rails Tutorial: first application
+
+This is my second reading of the Ruby on Rails Tutorial by Michael Hartl. This is the first application from Chapter 1. 
+
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
 
